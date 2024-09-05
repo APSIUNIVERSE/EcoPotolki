@@ -13,11 +13,11 @@ import aioschedule
 
 
 botkart = FSInputFile("бот.png")
-TOKEN = "6923533328:AAGzGN8a9SidZO5f0RsOZleEzyzTtS5H2iY"
+TOKEN = "..."
 dp = Dispatcher()
 promo = "MSKPOTOLKI"
 bot = Bot(token=TOKEN, parse_mode='HTML')
-ID = -1002090528693
+ID = ...
 TEXT = "Привет! Для полноценного знакомства с нами и получения бонуса воспользуйтесь нашим ботом"
 
 builder = InlineKeyboardBuilder()
